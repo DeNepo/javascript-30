@@ -18,7 +18,7 @@ The first couple challenges you try to build as a group will be difficult.  You'
   - [Repeat!](#repeat)
 - [The Challenges](#the-challenges)
   - [For Group Study](#for-group-study)
-  - [For Individual Study](#for-individual-study)
+  - [For Solo Study](#for-solo-study)
 - [Helpful Links](#helpful-links)
 
 ---
@@ -62,10 +62,11 @@ Using Pull Requests, make sure each team member has a copy of the complete `deve
 ### 3. Project Management
 
 1. Create one milestone for each user story.
-1. Create one issue for each task (piece of code) that needs to be completed and assign it to the correct milestone
-   - ie. _Zoom Handlers_ & _Zoom Listeners_ would assigned to the milestone "A user can zoom in and out"
+1. Create one issue for each task that needs to be completed (ie. one piece of code: a single listener, a single handler, a logic function, a style class, ...)
+    - Assign it to the correct User Story milestone. 
+    - Label the issue based on it's concern (ie. handler, logic, listener, style, ..)
+    - Assign each issue to one of your team members
 1. Create a new project board in the main group repository and move all of your issues onto the board (the _Basic Kanban_ template project will do)
-1. Assign each issue to a team member
 
 ### Developing
 
@@ -129,7 +130,7 @@ As you work your way through the 30 challenges you should check them off in the 
 
 ---
 
-### For Individual Study
+### For Solo Study
 
 > Each time you finish one of these, check it off and provide a link to the repository with your finished code
 
