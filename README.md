@@ -2,7 +2,7 @@
 
 [The JavaScript 30](https://javascript30.com/) is an outstanding series of 30 video tutorials by Wes Bos.  Each tutorial builds a small, interesting project from scratch using plain JS, CSS & HTML.
 
-You'll be using these tutorials as a chance to practice collaborative development. Using his tutorials as a starting point, you will work in teams of 2-3 to collaboratively turn each project into a full repository.
+You'll be using these tutorials as a chance to practice collaborative development. Using his tutorials as a starting point, you will work in teams of 2-3 to build each group project in a _new_ repository to practice collaborative development.
 
 The first couple challenges you try to build as a group will be difficult.  You'll have many merge conflicts, difficulty dividing the work, and will certainly feel like it's much more work than just building the project.  And it will be more work!  But worth it.  Learning how to collaborate with forks, branches, milestones & issues on small projects you understand completely will help you understand the big picture of project management.
 
@@ -10,7 +10,7 @@ The first couple challenges you try to build as a group will be difficult.  You'
 
 - [Collaborative Development](#collaborative-development)
   - [0. Independent Study](#0-Independent-study)
-  - [1. Project Repository](#1-project-repository)
+  - [1. New Repository](#1-new-repository)
   - [2. Project Planning](#2-project-planning)
   - [3. Project Management](#3-project-management)
   - [4. Developing](#4-developing)
@@ -40,7 +40,7 @@ After finding a team and picking a challenge,  you should ...
 
 Each person in your group should study the challenge independently, following the video tutorial and studying Wes Bos' finished example code.
 
-### 1. Project Repository
+### 1. New Repository
 
 Choose one of your team members to be the Repository Owner, they will create a new repository on their account named after the challenge.
 
