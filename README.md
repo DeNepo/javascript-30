@@ -16,6 +16,7 @@ The first couple challenges you try to build as a group will be difficult.  You'
   - [4. Developing](#4-developing)
   - [5. Documenting](#5-documenting)
   - [Repeat!](#repeat)
+- [Examples to Study](./examples-to-study)
 - [The Challenges](#the-challenges)
   - [For Group Study](#for-group-study)
   - [For Solo Study](#for-solo-study)
@@ -28,7 +29,9 @@ The first couple challenges you try to build as a group will be difficult.  You'
 Your main objective with these exercises is to practice working with others on one shared code base.  For each of the group challenges you should work in a group of 2-3 to break down the project into user stories and create a full project repository one step at a time.  A finished project repository will have:
 
 - A `development-strategy.md` breaking down the finished project into steps.
-- One milestone per user story, one issue per task, and a project board to organize the issues.
+- One milestone per user story
+- One issue per task, labeled by concern
+- A project board to organize the issues.
 - One branch per user story, each merged into _master_
 - The finished code for your project separated into multiple folders and files according to separation of concerns.
 - A live demo on GitHub pages
@@ -63,7 +66,7 @@ Using Pull Requests, make sure each team member has a copy of the complete `deve
 
 1. Create one milestone for each user story.
 1. Create one issue for each task that needs to be completed (ie. one piece of code: a single listener, a single handler, a logic function, a style class, ...)
-    - Assign it to the correct User Story milestone. 
+    - Assign it to the correct User Story milestone.
     - Label the issue based on it's concern (ie. handler, logic, listener, style, ..)
     - Assign each issue to one of your team members
 1. Create a new project board in the main group repository and move all of your issues onto the board (the _Basic Kanban_ template project will do)
@@ -74,7 +77,7 @@ Get coding!
 
 - Develop each user story on a separate branch, merging to master only when it is complete.
 - Each person should complete their tasks (write their code) on their fork. When they have completed their task they should send a pull request with their code to the main group repo.
--  By the time a user story is finished, each team member should have the same code on their fork & branch as the main repository.
+- By the time a user story is finished, each team member should have the same code on their fork & branch as the main repository.
 - When a user story is fully merged onto it's branch of the main group repository, merge it to the master branch and move on to the next!
 
 ### Documenting
@@ -132,14 +135,14 @@ As you work your way through the 30 challenges you should check them off in the 
 
 ### For Solo Study
 
-> Each time you finish one of these, check it off and provide a link to the repository with your finished code
+> These exercises are to study at your own pace without doing any of the extra work with development strategies, user stories or branches.  You can put organize your finished code and notes in the [./solo-study](./solo-study) folder on your fork of this repository.
 
-- [ ] 04 - [array cardio day 1]()
-- [ ] 06 - [array cardio day 2]()
-- [ ] 09 - [dev tools domination]()
-- [ ] 14 - [javascript reverences vs copying]()
-- [ ] 18 - [Adding Up Times with Reduce]()
-- [ ] 25 - [Event Capture, Propagation, Bubbling]()
+- [ ] 04 - array cardio day 1
+- [ ] 06 - array cardio day 2
+- [ ] 09 - dev tools domination
+- [ ] 14 - javascript reverences vs copying
+- [ ] 18 - Adding Up Times with Reduce
+- [ ] 25 - Event Capture, Propagation, Bubbling
 
 [TOP](#javascript-30)
 
