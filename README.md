@@ -8,6 +8,7 @@ The first couple challenges you try to build as a group will be difficult.  You'
 
 ### Index
 
+- [Helping Each Other](#helping-each-other)
 - [Collaborative Development](#collaborative-development)
   - [0. Independent Study](#0-Independent-study)
   - [1. New Repository](#1-new-repository)
@@ -16,11 +17,27 @@ The first couple challenges you try to build as a group will be difficult.  You'
   - [4. Developing](#4-developing)
   - [5. Documenting](#5-documenting)
   - [Repeat!](#repeat)
-- [Examples to Study](./examples-to-study)
 - [The Challenges](#the-challenges)
   - [For Group Study](#for-group-study)
   - [For Solo Study](#for-solo-study)
+- [Examples to Study](./examples-to-study)
 - [Helpful Links](#helpful-links)
+
+---
+
+## Helping Each Other
+
+Got a question? Got a tip? Use the issues in [HackYourFutureBelgium's fork](https://github.com/hackyourfuturebelgium/javascript-30)!
+
+Some guidelines for using the issues:
+
+- Attach a label with the challenge name in kebab case -> `drum-kit`, or `slide-in-on-a-scroll`
+- Let us know if it's a question or a helpful tip -> `question`, `tip`
+- @mention someone if you know they have the same question, or think they could help you
+- If you create a `question` issue and your question has been answered, please close the issue
+- Be nice and have fun!
+
+[TOP](#javascript-30)
 
 ---
 
