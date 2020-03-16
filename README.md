@@ -27,7 +27,7 @@ The first couple challenges you try to build as a group will be difficult.  You'
 
 ## Helping Each Other
 
-Got a question? Got a tip? Use the issues in [HackYourFutureBelgium's fork](https://github.com/hackyourfuturebelgium/javascript-30)!
+Got a question? Got a tip? Use the issues in [HackYourFutureBelgium's fork](https://github.com/hackyourfuturebelgium/javascript-30/issues)!
 
 Some guidelines for using the issues:
 
