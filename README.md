@@ -168,6 +168,13 @@ As you work your way through the 30 challenges you should check them off in the 
 ## Helpful Links
 
 - [Wes Bos' Code to Study](https://github.com/wesbos/JavaScript30)
+
+### Git Workflows
+
+- [Atlassian: comparison](https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow)
+
+### General References
+
 - [study.hackyourfuture.be](https:study.hackyourfuture.be)
 
 [TOP](#javascript-30)
