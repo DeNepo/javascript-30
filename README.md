@@ -49,7 +49,7 @@ As you work your way through the 30 challenges you should check them off in the 
 
 ### For Group Study
 
-> Each time you finish one of these challenges, check it off `- [x]` and provide a link to the new repository your group collaborated on to build this challenge.  
+Each time you finish one of these group challenges, check it off (`- [x]`) and provide a link to the new repository your group used to collaborate on this challenge.  
 
 - [ ] 01 - [drum kit]()
 - [ ] 02 - [clock]()
@@ -82,7 +82,9 @@ As you work your way through the 30 challenges you should check them off in the 
 
 ### For Solo Study
 
-> These exercises are to study at your own pace without doing any of the extra work with development strategies, user stories or branches.  You can put organize your finished code and notes in the [./solo-study](./solo-study) folder on your fork of this repository.
+These exercises are to study at your own pace without needing to do any of the extra steps with development strategies, user stories or branches.  You can put organize your finished code and notes in the [./solo-study](./solo-study) folder on your fork of this repository.
+
+Looking for a little more workflow practice?  Try using a project board and issues in your fork of this repo to track your progress through these exercises.
 
 - [ ] 04 - array cardio day 1
 - [ ] 06 - array cardio day 2
