@@ -62,7 +62,7 @@ Each person in your group should study the challenge independently, following th
 
 ### 1. New Repository
 
-Choose one of your team members to be the Repository Owner, they will create a new repository on their account named after the challenge.
+Choose one of your team members to be the Repository Owner, they will create __a new repository__ on their account named after the challenge. (not a fork, a new empty repository!)
 
 Add the other team members as collaborators so they can manage issues on the main repository's project board.
 
