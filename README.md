@@ -169,7 +169,7 @@ There are 24 group projects, keep working your way through them all until you ca
 
 ## Helpful Links
 
-- [Wes Bos' Code to Study](https://github.com/wesbos/JavaScript30)
+- [Finished code to study & many helpful guides](https://github.com/wesbos/JavaScript30)
 
 ### Git Workflows
 
