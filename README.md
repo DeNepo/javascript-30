@@ -82,7 +82,7 @@ Each time you finish one of these group challenges, check it off (`- [x]`) and p
 
 ### For Solo Study
 
-These exercises are to study at your own pace without needing to do any of the extra steps with development strategies, user stories or branches.  You can put organize your finished code and notes in the [./solo-study](./solo-study) folder on your fork of this repository.
+These exercises are to study at your own pace. Because these are challenges without a full user interface, you don't need to do any of the extra steps with development strategies, new repositories, user stories or branches.  You can put your finished code and notes directly in the [./solo-study](./solo-study) folder on your fork of this repository.
 
 Looking for a little more workflow practice?  Try using a project board and issues in your fork of this repo to track your progress through these exercises.
 
