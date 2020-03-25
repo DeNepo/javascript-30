@@ -118,11 +118,11 @@ Each person in your group should study the challenge independently, following th
 
 ### 1. New Repository
 
-Choose one of your team members to be the Repository Owner, they will create __a new repository__ on their account named after the challenge. (not a fork, a new empty repository!)
+Choose one of your team members to be the Repository Owner, they will create __a new repository__ on their account named after the challenge. (not a fork, a new empty repository!)  You will use this repository for everything, the project board, issues, development strategy, branches, code and demo.
 
-Add the other team members as collaborators so they can manage issues on the main repository's project board.
+Add the other team members as collaborators so they can manage issues on the main repository's project board.  Each team member should now fork the main repository.
 
-Each team member should now fork the main repository.
+Before moving on, take a moment to add a link to your team's repo in the README of your fork of `javascript-30` (this file).
 
 ### 2. Project Planning
 
@@ -142,7 +142,7 @@ Using Pull Requests, make sure each team member has a copy of the complete `deve
     - Assign it to the correct User Story milestone.
     - Label the issue based on it's concern (ie. handler, logic, listener, style, ..)
     - Assign each issue to one of your team members
-1. Create a new project board in the main group repository and move all of your issues onto the board (the _Basic Kanban_ template project will do)
+1. Create a new project board in the new project repository and move all of your issues onto the board (the _Basic Kanban_ template project will do)
 
 ### Developing
 
