@@ -149,7 +149,9 @@ Using Pull Requests, make sure each team member has a copy of the complete `deve
 Get coding!
 
 - Develop each user story on a separate branch, merging to master only when it is complete.
-- Each person should complete their tasks (write their code) on their fork. When they have completed their task they should send a pull request with their code to the main group repo.
+- Each person should complete their tasks (write their code) on their fork.
+  - When a task/issue is complete, they should send a pull request with their code to the main group repo.  Assign all group members to review the pull request.
+  - After each member has approved the pull request, it can be merged with the main repo
 - By the time a user story is finished, each team member should have the same code on their fork & branch as the main repository.
 - When a user story is fully merged onto it's branch of the main group repository, merge it to the master branch and move on to the next!
 
