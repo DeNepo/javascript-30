@@ -16,10 +16,11 @@ The first couple challenges you try to build as a group will be difficult.  You'
 - [Collaborative Development](#collaborative-development)
   - [0. Independent Study](#0-Independent-study)
   - [1. New Repository](#1-new-repository)
-  - [2. Project Planning](#2-project-planning)
-  - [3. Project Management](#3-project-management)
-  - [4. Developing](#4-developing)
-  - [5. Documenting](#5-documenting)
+  - [2. New Features](#2-new-features)
+  - [3. Project Planning](#3-project-planning)
+  - [4. Project Management](#4-project-management)
+  - [5. Developing](#5-developing)
+  - [6. Documenting](#6-documenting)
   - [Repeat!](#repeat)
 - [Helpful Links](#helpful-links)
 
@@ -49,7 +50,7 @@ As you work your way through the 30 challenges you should check them off in the 
 
 ### For Group Study
 
-Each time you finish one of these group challenges, check it off (`- [x]`) and provide a link to the new repository your group used to collaborate on this challenge.  
+Each time you finish one of these group challenges, check it off (`- [x]`) and provide a link to the new repository your group used to collaborate on this challenge.
 
 - [ ] 01 - [drum kit]()
 - [ ] 02 - [clock]()
@@ -124,18 +125,23 @@ Add the other team members as collaborators so they can manage issues on the mai
 
 Before moving on, take a moment to add a link to your team's repo in the README of your fork of `javascript-30` (this file).
 
-### 2. Project Planning
+
+### 2. New Features
+
+As a team discus the finished tutorial code come up with one new feature for each team member to develop.
+
+### 3. Project Planning
 
 Work together to write a `development-strategy.md`:
 
-- How do you want to break this project into user stories? (it's okay if there is only one user story!)
+- How do you want to break this project into user stories? (including your new user stories!)
 - What's a good way to organize the code for this project? What folders & files make sense to have?
 - What code do you need to write for each user story? Which folders and files will you need to work on?
 - Include a wireframe for your finished project in the strategy file.
 
 Using Pull Requests, make sure each team member has a copy of the complete `development-strategy.md` on their fork of the project.
 
-### 3. Project Management
+### 4. Project Management
 
 1. Create one milestone for each user story.
 1. Create one issue for each task that needs to be completed (ie. one piece of code: a single listener, a single handler, a logic function, a style class, ...)
@@ -144,7 +150,7 @@ Using Pull Requests, make sure each team member has a copy of the complete `deve
     - Assign each issue to one of your team members
 1. Create a new project board in the new project repository and move all of your issues onto the board (the _Basic Kanban_ template project will do)
 
-### Developing
+### 5. Developing
 
 Get coding!
 
@@ -155,7 +161,7 @@ Get coding!
 - By the time a user story is finished, each team member should have the same code on their fork & branch as the main repository.
 - When a user story is fully merged onto it's branch of the main group repository, merge it to the master branch and move on to the next!
 
-### Documenting
+### 6. Documenting
 
 After all user stories are complete & merged to mast, and after all of your issues are closed, it's time to put on the finishing touches.
 
