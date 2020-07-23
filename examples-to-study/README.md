@@ -27,7 +27,7 @@ The first step to mastering user stories is to practice asking and answering the
     * Issues with labels & milestones
     * A project board
     * Branches for each user story
-    * A full README (or at least as much as you need for this project :)
+    * A full README (or at least as much as you need for this project)
     * A complete Development Strategy
     * Code refactored and separated by concern
 

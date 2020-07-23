@@ -4,7 +4,7 @@
 
 You'll be using these tutorials as a chance to practice collaborative development. Using his tutorials as a starting point, you will work in teams of 2-3 to build each group project in a _new_ repository to practice collaborative development.
 
-The first couple challenges you try to build as a group will be difficult.  You'll have many merge conflicts, difficulty dividing the work, and will certainly feel like it's much more work than just building the project.  And it will be more work!  But worth it.  Learning how to collaborate with forks, branches, milestones & issues on small projects you understand completely will help you understand the big picture of project management.
+The first couple challenges you try to build as a group will be difficult.  You'll have many merge conflicts, difficulty dividing the work, and will certainly feel like it's much more work than just building the project.  And it will be more work!  But worth it.  Learning how to collaborate with branches, milestones, issues & pull requests on small projects you understand completely will help you understand the big picture of project management.
 
 ### Index
 
@@ -46,7 +46,7 @@ Some guidelines for using the issues:
 
 Like the title says, there are 30 challenges.  Most of them are full projects with HTML, CSS & JavaScript - these are for group study.  But a few of them are more focused on a specific JS skill - these are for you to study independently in your own repository.
 
-As you work your way through the 30 challenges you should check them off in the lists below and provide a link to the repository with your solution. If it's a group project link to the main group repository, not your fork.
+As you work your way through the 30 challenges you should check them off in the lists below and provide a link to the repository with your solution. If it's a group project link to the main group repository, not your fork of this reop.
 
 ### For Group Study
 
@@ -83,7 +83,7 @@ Each time you finish one of these group challenges, check it off (`- [x]`) and p
 
 ### For Solo Study
 
-These exercises are to study at your own pace. Because these are challenges without a full user interface, you don't need to do any of the extra steps with development strategies, new repositories, user stories or branches.  You can put your finished code and notes directly in the [./solo-study](./solo-study) folder on your fork of this repository.
+These exercises are to study individually. Because these are challenges without a full user interface, you don't need to do any of the extra steps with development strategies, new repositories, user stories or branches.  You can put your finished code and notes directly in the [./solo-study](./solo-study) folder on your fork of this repository.
 
 Looking for a little more workflow practice?  Try using a project board and issues in your fork of this repo to track your progress through these exercises.
 
@@ -121,10 +121,9 @@ Each person in your group should study the challenge independently, following th
 
 Choose one of your team members to be the Repository Owner, they will create __a new repository__ on their account named after the challenge. (not a fork, a new empty repository!)  You will use this repository for everything, the project board, issues, development strategy, branches, code and demo.
 
-Add the other team members as collaborators so they can manage issues on the main repository's project board.  Each team member should now fork the main repository.
+Add the other team members as collaborators on the main repo.
 
 Before moving on, take a moment to add a link to your team's repo in the README of your fork of `javascript-30` (this file).
-
 
 ### 2. New Features
 
@@ -139,7 +138,6 @@ Work together to write a `development-strategy.md`:
 - What code do you need to write for each user story? Which folders and files will you need to work on?
 - Include a wireframe for your finished project in the strategy file.
 
-Using Pull Requests, make sure each team member has a copy of the complete `development-strategy.md` on their fork of the project.
 
 ### 4. Project Management
 
@@ -155,11 +153,9 @@ Using Pull Requests, make sure each team member has a copy of the complete `deve
 Get coding!
 
 - Develop each user story on a separate branch, merging to master only when it is complete.
-- Each person should complete their tasks (write their code) on their fork.
-  - When a task/issue is complete, they should send a pull request with their code to the main group repo.  Assign all group members to review the pull request.
+- Each person should complete their tasks (write their code) a new branch.
+  - When a task/issue is complete, they should send a pull request with their code to the master branch.  Assign group members to review the pull request.
   - After each member has approved the pull request, it can be merged with the main repo
-- By the time a user story is finished, each team member should have the same code on their fork & branch as the main repository.
-- When a user story is fully merged onto it's branch of the main group repository, merge it to the master branch and move on to the next!
 
 ### 6. Documenting
 
