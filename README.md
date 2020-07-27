@@ -12,7 +12,8 @@ The first couple challenges you try to build as a group will be difficult.  You'
 - [The Challenges](#the-challenges)
   - [For Group Study](#for-group-study)
   - [For Solo Study](#for-solo-study)
-- [Examples to Study](./examples-to-study)
+- [Examples to Study](#examples-to-study)
+- [Starter Repo](#starter-repo)
 - [Collaborative Development](#collaborative-development)
   - [0. Independent Study](#0-Independent-study)
   - [1. New Repository](#1-new-repository)
@@ -98,6 +99,27 @@ Looking for a little more workflow practice?  Try using a project board and issu
 
 ---
 
+## Examples to Study
+
+This repository contains a few [examples to study](./examples-to-study), but don't stop there!
+
+Explore other students' forks to see how others have approached the same projects.
+
+[TOP](#javascript-30)
+
+---
+
+## Starter Repo
+
+There is a starter repo to help your team get going, no need to start from an empty project :)
+
+- [javascript-30-starter](https://github.com/HackYourFutureBelgium/javascript-30-starter)
+
+[TOP](#javascript-30)
+
+---
+
+
 ## Collaborative Development
 
 Your main objective with these exercises is to practice working with others on one shared code base.  For each of the group challenges you should work in a group of 2-3 to break down the project into user stories and create a full project repository one step at a time.  A finished project repository will have:
@@ -119,7 +141,7 @@ Each person in your group should study the challenge independently, following th
 
 ### 1. New Repository
 
-Choose one of your team members to be the Repository Owner, they will create __a new repository__ on their account named after the challenge. (not a fork, a new empty repository!)  You will use this repository for everything, the project board, issues, development strategy, branches, code and demo.
+Choose one of your team members to be the Repository Owner, they will create __a new repository__ using the [javascript-30-starter](https://github.com/HackYourFutureBelgium/javascript-30-starter) and rename it after the project you're building.  You will use this repository for everything, the project board, issues, development strategy, branches, code and demo.
 
 Add the other team members as collaborators on the main repo.
 
@@ -185,7 +207,3 @@ There are 24 group projects, keep working your way through them all until you ca
 
 [TOP](#javascript-30)
 
----
----
-
-### <a href="https://hackyourfuture.be" target="_blank"><img src="https://user-images.githubusercontent.com/18554853/63941625-4c7c3d00-ca6c-11e9-9a76-8d5e3632fe70.jpg" width="100" height="100" alt="Hack Your Future: Belgium"></a>
