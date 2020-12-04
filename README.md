@@ -121,6 +121,7 @@ Get coding!
 - Develop each task on a separate branch, merging to master only when it is complete.
 - Each person should complete their tasks (write their code) a new branch.
   - When a task/issue is complete, they should send a pull request with their code to the master branch. Assign group members to review the pull request.
+  - Careful! There should be one pull request per issue, each PR should be one unit of work.
   - After all assigned group member has approved the pull request, it can be merged to the main/master branch
 
 ### 6. Documenting
