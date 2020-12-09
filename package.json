@@ -1,0 +1,19 @@
+{
+  "name": "javascript-30-gallery",
+  "version": "1.0.0",
+  "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hackyourfuturebelgium/javascript-30-gallery.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hackyourfuturebelgium/javascript-30-gallery/issues"
+  },
+  "homepage": "https://github.com/hackyourfuturebelgium/javascript-30-gallery",
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^8.2.1"
+  }
+}
