@@ -1,8 +1,10 @@
 # JavaScript 30
 
-[The JavaScript 30](https://javascript30.com/) is an outstanding series of 30 video tutorials by Wes Bos. Each tutorial builds a small, interesting project from scratch using plain JS, CSS & HTML. You'll be using these tutorials as a chance to practice refactoring code from one file to many, and to practice collaborative development.
+[The JavaScript 30](https://javascript30.com/) is an outstanding series of 30 video tutorials by Wes Bos. Each tutorial builds a small, interesting project from scratch using plain JS, CSS & HTML. You'll be studying these tutorials to learn about the DOM, events and interactive UIs. You'll also practice refactoring code from one file to many, and building web sites in a group.
 
-The first couple challenges you try to refactor will be very difficult, you will certainly feel like it's much more work than just building the project in one file. And it will be more work! But worth it. Learning how to separate projects by concern early will help you build the right habits from the start.
+The first couple challenges you try to refactor will be very difficult, you will certainly feel like it's much more work than just building the project in one file. And it will be more work! But worth it. Learning how to split your code into separate files is easier to learn now with smaller projects, than later with larger ones.
+
+To help you get started with each project there is a [javascript-30-starter template repo](https://github.com/hackyourfuturebelgium/javascript-30-starter) you can use. Generate a new repository for each project you study, and you're good to go!
 
 ### Index
 
@@ -12,20 +14,19 @@ The first couple challenges you try to refactor will be very difficult, you will
 - [Refactoring the Projects](#refactoring-the-projects)
   - [All Alone](#all-alone)
   - [In a Group](#in-a-group)
-- [JS 30 Gallery](#js-30-gallery)
 - [Helpful Links](#helpful-links)
 
 ---
 
 ## The Challenges
 
-Like the title says, there are 30 challenges. Most of them are full projects with HTML, CSS & JavaScript. But a few of them are for practicing a specific JS skill. To help guide your study the projects have been sorted out by project and practice.
+Like the title says, there are 30 challenges. Most of them are full projects with HTML, CSS & JavaScript. But a few of them are for practicing a specific skill. To help guide your study the projects have been sorted out by project and practice.
 
 ### Projects
 
 JS 30 Projects are complete websites with full user interactions. To practice separation of concerns, you will be refactoring the finished code from these tutorials into separate folders and files. You will never need to change the HTML/CSS, just the JavaScript!
 
-Each time you finish one of these projects, check it off (`- [x]`) and provide a link to the refactored code. If you completed it all alone you can link to your code in this repo. If you completed it as a group project you can link to the repostory.
+Each time you finish one of these projects, check it off (`- [x]`) and provide a link to your refactored project. If you completed it as a group project you can link to the repository.
 
 - [ ] 01 - [drum kit]()
 - [ ] 02 - [clock]()
@@ -73,92 +74,34 @@ These are for individual study. Because these are challenges without a full user
 
 ## Refactoring the Projects
 
-So you're ready to get started? After picking the challenge you want to study, the next step is deciding ... all alone, or in a group?
+So you're ready to get started? Pick a project, generate a new repo using [the javascript-30-starter template](https://github.com/hackyourfuturebelgium/javascript-30-starter) and decide if you'll develop alone or in a group. You'll follow a slightly different workflow for each.
 
 ### All Alone
 
-If you are studying a project independently you can refactor your code into the [/projects](./projects) directory of your fork. Each time you start a new challenge you can copy-paste the starter code provided.
+If you are studying a project independently you can just get started. No need for extra planning or issues, you can just practice refactoring the code.
 
 ### In a Group
 
-One enormous benefit of separating your code is to help many people work on the same project. You are encouraged to work in small groups for as many of the JS 30 challenges as you can. When working together you can take a little extra time to practice full collaboration workflows. Using the [javascript-30-starter](https://github.com/HackYourFutureBelgium/javascript-30-starter) repo, you and your group can create finished project repository with:
+One enormous benefit of splitting your code is making it easier to collaborate on the same project. You are encouraged to work in small groups for as many of the JS 30 challenges as you can. When working together you can take a little extra time to practice full collaboration workflows. Using the [javascript-30-starter](https://github.com/HackYourFutureBelgium/javascript-30-starter) repo, you and your group can create finished project repository with:
 
-- A backlog and development strategy breaking down the finished project into clear steps.
-- One milestone per user story
-- One issue per task (file of code, bug, improvement, ...), labeled by concern.
-- A project board to organize the issues.
-- One branch per task, each merged into _master_
-- The finished code for your project should separated into multiple folders and files according to separation of concerns.
-- A live demo on GitHub pages
-- Project documentation including a complete README, and clear JSDocs for each piece of code.
+```markdown
+- [ ] [repo](https://github.com/_/_) (with a complete README)
+- [ ] [live demo](https://_.github.io/_)
+- [ ] [Docs](https://github.com/_/_/tree/_/DOCS.md)
+- [/planning](https://github.com/_/_/tree/_/planning)
+  - [ ] communication plan
+  - [ ] constraints
+  - [ ] backlog
+  - [ ] wireframe
+  - [ ] development strategy
+  - [ ] retrospective
+- [ ] [project board](https://github.com/_/_/projects/1)
+```
 
-After finding a team and picking a challenge, you should ...
+After finding a team and picking a challenge, you should work in two phases:
 
-#### 0. Independent Study
-
-Each person in your group should study the challenge independently, following the video tutorial and studying Wes Bos' finished example code. After following the tutorial spend some time figuring out how you would separate his code by concern.
-
-#### 1. New Repository
-
-Choose one of your team members to be the Repository Owner, they will create a new repository using the [javascript-30-starter](https://github.com/HackYourFutureBelgium/javascript-30-starter) and rename it after the project you're building. You will use this repository for everything, the project board, issues, development strategy, branches, code and demo.
-
-- Add the other team members as collaborators on the main repo.
-- Turn on GitHub Pages, your most recent work should always be live!
-
-Before moving on, take a moment to add a link to your team's repo in the README of your fork of `javascript-30` (this file).
-
-#### 2. New Feature
-
-As a team discus the finished tutorial code come up with one new feature you would like to add, beyond what Wes Bos has implemented. This can be anything!
-
-#### 3. Project Planning
-
-Work together to write a `development-strategy.md`:
-
-- How do you want to break this project into user stories? (including your new user story!)
-- What's a good way to organize the code for this project? What folders & files make sense to have?
-- What code do you need to write for each user story? Which folders and files will you need to work on?
-- Include a wireframe or figma document for your finished project.
-- How much work/time do you expect each task to be?
-
-#### 4. Project Management
-
-1. Create one milestone for each user story.
-1. Create one issue for each task that needs to be completed (ie. one piece of code: a single listener, a single handler, a logic function, a style class, ...)
-   - Assign it to the correct User Story milestone.
-   - Label the issue based on it's concern (ie. handler, logic, listener, style, ..)
-   - Assign each issue to one of your team members
-1. Create a new project board in the new project repository and move all of your issues onto the board.
-
-#### 5. Developing
-
-Get coding!
-
-- Develop each task on a separate branch, merging to master only when it is complete.
-- Each person should complete their tasks (write their code) a new branch.
-  - When a task/issue is complete, they should send a pull request with their code to the master branch. Assign group members to review the pull request.
-  - Careful! There should be one pull request per issue, each PR should be one unit of work.
-  - After all assigned group member has approved the pull request, it can be merged to the main/master branch
-
-#### 6. Documenting
-
-After all user stories are complete & merged to master, and after all of your issues are closed, it's time to put on the finishing touches.
-
-Fill out a complete README.md to document your project and take a last look over your project's documentation.
-
-#### Repeat!
-
-[TOP](#javascript-30)
-
----
-
-## JS 30 Gallery
-
-Are you proud of the work you've done? Keen to show it off for the world to see? Build a gallery website to showcase all of your projects!
-
-In the [/docs](./docs) folder of this repo you can build a static site with a thumbnail for each of the projects you've completed, including links to the source code and live demos. A nice chance to practice your CSS and design skills : )
-
-> Hint: you will need to set GitHub Pages to build from the `/docs` folder.
+1. **Independent Study**: Each person in your group should study the challenge independently, following the video tutorial and studying Wes Bos' [finished example code](https://github.com/wesbos/JavaScript30). After following the tutorial spend some time figuring out on your own how you would split his code into separate files.
+2. **Collaborative Development**: After each person in your group has had some time to study the project, get back together and reverse-engineer the same program in a shared repo. You don't need to build the project exactly the same! You can of course choose to implement the project differently or to add new features.
 
 [TOP](#javascript-30)
 
@@ -166,7 +109,7 @@ In the [/docs](./docs) folder of this repo you can build a static site with a th
 
 ## Helpful Links
 
-Got a question? Got a tip? Use the issues in [HackYourFutureBelgium's fork](https://github.com/hackyourfuturebelgium/javascript-30/issues)!
+Got a question? Got a tip? Use the issues in [HackYourFutureBelgium's fork](https://github.com/hackyourfuturebelgium/javascript-30/issues).
 
 Some guidelines for using the issues:
 
