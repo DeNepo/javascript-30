@@ -122,6 +122,7 @@ Some guidelines for using the issues:
 ### More Links
 
 - [/wesbos/JavaScript30](https://github.com/wesbos/JavaScript30)
+  - contains many links to people's notes and finished projects
 - [study.hackyourfuture.be](https:study.hackyourfuture.be)
 - [Separation of Concerns](https://github.com/hackyourfuturebelgium/separation-of-conerns)
   - the HYF module where these projects are used
